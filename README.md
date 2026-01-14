@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋
+My name is Nikita
+I am a student of RANEPA
+My main language is python.
 
 <!--
 **kopanevnikita/KopanevNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
