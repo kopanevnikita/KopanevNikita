@@ -8,3 +8,4 @@ My email is kopanevnikita07@gmail.com.
 
 I can write simple games and programs in Python. 👩‍🏫
 
+I'm very glad that you came here)
